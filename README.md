@@ -1,4 +1,4 @@
-#Trial Division Prime 
+# Trial Division Prime 
 
 This is a python implementation finding prime numbers using [Trial Division](https://en.wikipedia.org/wiki/Trial_division). 
 
